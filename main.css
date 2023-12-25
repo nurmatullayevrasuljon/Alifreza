@@ -1,0 +1,127 @@
+* {
+    color: #fff;
+}
+.ps{
+    width: 100% !important;
+    position: fixed !important;
+	top: 0px;
+    background-color: #101018 !important;
+    z-index: 1 !important;
+}
+.b-radius-3 {
+    border-radius: 12px !important;
+    background-color: #fa5117 !important;
+    color: #fff;
+    padding: 20px 10px 20px 10px !important;
+}
+.bg{
+    background-color: #313131;
+}
+.between {
+    display: flex !important;
+    align-items: center !important;
+}
+.n-icon {
+    rotate: 45deg !important;
+    transition: .1s linear !important;
+}
+
+.n-icon:hover {
+    rotate: -45deg !important;
+}
+.ml {
+    margin-left: 5.333333%;
+}
+.margin-card{
+  margin: 2.5rem !important;
+}
+.offset-prev{
+    margin-left: -75px !important;
+}
+.offset-next{
+    margin-right: -75px !important;
+}
+.green-line{
+    width: 100%;
+    height: 5px;
+    display: inline-block;
+    background-color: #079211;
+    padding: 0 !important;
+}
+.green-colmp{
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    background-color: #079211;
+}
+.radius-icon{
+    width: 7px !important;
+    height: 7px !important;
+    display: inline-block !important;
+    background-color: #079111 !important;
+    border-radius: 50% !important;
+}
+.text-color{
+    color: #808080 !important;
+}
+.text-one {
+    font-size: 40px;
+    font-weight: 700;
+    color: #079211;
+    margin-left: 5.333333%;
+}
+
+.text-2 {
+    margin-left: 5.333333%;
+}
+
+.text-3 {
+    margin-left: 5.333333%;
+}
+.text-4 {
+    font-size: 45px;
+    font-weight: 600;
+    color: #fff;
+    margin-left: 9.333333%;
+}
+.text-5 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+}
+.text-6 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 5rem !important;
+}
+.text-7 {
+    font-size: 45px;
+    font-weight: 600;
+    color: #fff;
+}
+.text-8 {
+    font-size: 35px;
+    font-weight: 600;
+    color: #fff;
+    margin-left: 9.333333%;
+}
+.hover-card{
+    transition: .1s linear !important;
+}
+.hover-card:hover {
+    cursor: pointer !important;
+    transform: scale(1.03);
+}
+.img-hover{
+    overflow: hidden;
+    transition: .1s all linear;
+}
+.img-hover:hover {
+    transform: scale(1.05);
+	cursor: pointer !important;
+}
+.b{
+	overflow: hidden !important;
+	/* border-radius: 5px; */
+}
